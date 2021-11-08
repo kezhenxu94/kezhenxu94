@@ -9,7 +9,7 @@
 
 - 🧑🏻‍🔧 I am maintaining Apache [SkyWalking](http://github.com/apache/skywalking)
 
-- 👨🏻‍💻 I created
+- 👨🏻‍💻 I created these repositories 👇
   - [skywalking-eyes (a.k.a license eye)](http://github.com/apache/skywalking-eyes). A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
   - [skywalking-python](http://github.com/apache/skywalking-python). Apache SkyWalking agent to instrument Python applications.
   - [skywalking-nodejs](http://github.com/apache/skywalking-nodejs). Apache SkyWalking agent to instrument NodeJS applications.
@@ -19,6 +19,12 @@
   - [skywalking-showcase](https://github.com/apache/skywalking-showcase). Showcase (nearly) all features of Apache SkyWalking, just like bookinfo of Istio, but more complicated.
 
 - 🙋🏻 Ask me about what I maintain and created 👆, or CI/CD
+
+- 🪶 My roles in the Apache Software Foundation
+  - [Apache SkyWalking](https://skywalking.apache.org) Project Management Committee member
+  - [Apache Incubator](https://incubator.apache.org) Project Management Committee member
+  - [Apache Dubbo](http://github.com/apache/dubbo) Committer
+  - [Apache MXNet (incubating)](http://github.com/apache/incubator-mxnet) mentor during the incubating journey
 
 - 🎙 I shared topics at conferences / meetups
   - [APISIX & SkyWalking co-meetup 2021: (Chinese) License Eye - 开源协议检查工具](https://www.bilibili.com/video/BV1Kb4y1a7Gi) 
