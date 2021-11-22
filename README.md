@@ -33,7 +33,7 @@
   - [SkyWalking Day 2021: (Chinese) 利用 Apache SkyWalking 事件采集系统更快定位故障](https://www.bilibili.com/video/BV1NU4y1V7LX)
   - [PyCon China 2020: (Chinese) Python 微服务应用性能监控](https://www.bilibili.com/video/BV1Ry4y167b6/)
 
-- 👨🏼‍🎓 I was the mentor of
+- 👨🏼‍🎓 I was a mentor of
   - [Google Summer of Code (2021)](https://summerofcode.withgoogle.com/archive/2021/projects/5224136162410496/)
   - [Summer of Open Source Promotion Plan (2021)](https://summer.iscas.ac.cn/#/org/orgdetail/apacheskywalking?lang=en)
   - [Summer of Open Source Promotion Plan (2020)](https://isrc.iscas.ac.cn/summer2020/#/organisations/apache-sw)
