@@ -7,6 +7,8 @@
 
 - 🏝 I am currently learning to live an interesting life
 
+- 🧹 I believe in writing clean codes
+
 - 🧑🏻‍🔧 I am maintaining Apache [SkyWalking](http://github.com/apache/skywalking)
 
 - 👨🏻‍💻 I created these repositories 👇
