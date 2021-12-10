@@ -26,7 +26,8 @@
   - [Apache SkyWalking](https://skywalking.apache.org) Project Management Committee member
   - [Apache Incubator](https://incubator.apache.org) Project Management Committee member
   - [Apache Dubbo](http://github.com/apache/dubbo) Committer
-  - [Apache MXNet (incubating)](http://github.com/apache/incubator-mxnet) mentor during the incubating journey
+  - [Apache MXNet (incubating)](http://github.com/apache/incubator-mxnet) mentor
+  - [Apache SeaTunnel (incubating)](http://github.com/apache/incubator-seatunnel) mentor
 
 - 🎙 I shared topics at conferences / meetups
   - [APISIX & SkyWalking co-meetup 2021: (Chinese) License Eye - 开源协议检查工具](https://www.bilibili.com/video/BV1Kb4y1a7Gi) 
