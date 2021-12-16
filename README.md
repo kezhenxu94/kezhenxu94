@@ -2,7 +2,7 @@
   <img style="width:8rem; height:auto" src="https://user-images.githubusercontent.com/15965696/138292443-0f9c2c63-12a1-4088-9b0a-6afb39dd37ee.png"/>
 </p>
 
-<h1 align="center">Hi, I'm kezhenxu94</h1>
+<h1 align="center">Hi, I'm kezhenxu94 (柯振旭)</h1>
 <h3 font-size="20" align="center">A passionate developer and open source enthusiast.</h3>
 
 - 🏝 I am currently learning to live an interesting life
