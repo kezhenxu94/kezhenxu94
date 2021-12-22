@@ -20,7 +20,7 @@
   - [skywalking-kubernetes-event-exporter](https://github.com/apache/skywalking-kubernetes-event-exporter). Export Kubernetes events to Apache SkyWalking OAP.
   - [skywalking-showcase](https://github.com/apache/skywalking-showcase). Showcase (nearly) all features of Apache SkyWalking, just like bookinfo of Istio, but more complicated.
 
-- 🙋🏻 Ask me about what I maintain and created 👆, or CI/CD
+- 🙋🏻 Ask me about what I maintain and created 👆, testing, or CI/CD
 
 - 🪶 My roles in the Apache Software Foundation
   - [Apache SkyWalking](https://skywalking.apache.org) Project Management Committee member
