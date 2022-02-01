@@ -28,6 +28,8 @@
   - [Apache MXNet (incubating)](http://github.com/apache/incubator-mxnet) mentor
   - [Apache SeaTunnel (incubating)](http://github.com/apache/incubator-seatunnel) mentor
   - [Apache Dubbo](http://github.com/apache/dubbo) Committer
+mentor
+  - [Apache DolphinScheduler](http://github.com/apache/dolphinscheduler) Committer
 
 - 🎙 I shared topics at conferences / meetups
   - [APISIX & SkyWalking co-meetup 2021: (Chinese) License Eye - 开源协议检查工具](https://www.bilibili.com/video/BV1Kb4y1a7Gi) 
@@ -40,6 +42,9 @@
   - [Google Summer of Code (2021)](https://summerofcode.withgoogle.com/archive/2021/projects/5224136162410496/)
   - [Summer of Open Source Promotion Plan (2021)](https://summer.iscas.ac.cn/#/org/orgdetail/apacheskywalking?lang=en)
   - [Summer of Open Source Promotion Plan (2020)](https://isrc.iscas.ac.cn/summer2020/#/organisations/apache-sw)
+
+- 📰 Events
+  - I was voted as <2021 China Top 33 Open Source Pioneers> ([2021 中国开源先锋 33 人](https://mp.weixin.qq.com/s/ff7PQemQM-rTBR5VuR5vQg))
 
 - 💇🏻 Fun fact - I haven't been to the the barber's since October 2017
 
