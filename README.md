@@ -28,7 +28,6 @@
   - [Apache MXNet (incubating)](http://github.com/apache/incubator-mxnet) mentor
   - [Apache SeaTunnel (incubating)](http://github.com/apache/incubator-seatunnel) mentor
   - [Apache Dubbo](http://github.com/apache/dubbo) Committer
-mentor
   - [Apache DolphinScheduler](http://github.com/apache/dolphinscheduler) Committer
 
 - 🎙 I shared topics at conferences / meetups
