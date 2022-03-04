@@ -23,6 +23,7 @@
 - 🙋🏻 Ask me about what I maintain and created 👆, testing, or CI/CD
 
 - 🪶 My roles in the Apache Software Foundation
+  - [Apache member](https://www.apache.org/foundation/members.html)
   - [Apache SkyWalking](https://skywalking.apache.org) Project Management Committee member
   - [Apache Incubator](https://incubator.apache.org) Project Management Committee member
   - [Apache MXNet (incubating)](http://github.com/apache/incubator-mxnet) mentor
