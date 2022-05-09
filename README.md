@@ -26,10 +26,10 @@
   - [Apache Software Foundation Member](https://www.apache.org/foundation/members.html)
   - [Apache SkyWalking](https://skywalking.apache.org) Project Management Committee member
   - [Apache Incubator](https://incubator.apache.org) Project Management Committee member
+  - [Apache DolphinScheduler](http://github.com/apache/dolphinscheduler) Project Management Committee member
   - [Apache MXNet (incubating)](http://github.com/apache/incubator-mxnet) mentor
   - [Apache SeaTunnel (incubating)](http://github.com/apache/incubator-seatunnel) mentor
   - [Apache Dubbo](http://github.com/apache/dubbo) Committer
-  - [Apache DolphinScheduler](http://github.com/apache/dolphinscheduler) Committer
 
 - 🎙 I shared topics at conferences / meetups
   - [APISIX & SkyWalking co-meetup 2021: (Chinese) License Eye - 开源协议检查工具](https://www.bilibili.com/video/BV1Kb4y1a7Gi) 
