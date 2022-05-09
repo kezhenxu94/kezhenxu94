@@ -9,6 +9,8 @@
 
 - 🧹 I believe in writing clean codes
 
+- 📋 I've been building a clipboard manager [CopyActions](https://copy-actions.github.io) for my own use and share it to all
+
 - 🧑🏻‍🔧 I am a maintainer of Apache [SkyWalking](http://github.com/apache/skywalking)
 
 - 👨🏻‍💻 I created these repositories 👇
