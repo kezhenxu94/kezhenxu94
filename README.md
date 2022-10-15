@@ -49,5 +49,3 @@
   - I was voted as <2021 China Top 33 Open Source Pioneers> ([2021 中国开源先锋 33 人](https://mp.weixin.qq.com/s/ff7PQemQM-rTBR5VuR5vQg))
 
 - 💇🏻 Fun fact - I haven't been to the barber's since October 2017
-
-  ![kezhenxu94's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezhenxu94&show_icons=true&title_color=fff&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117&border_color=333)
