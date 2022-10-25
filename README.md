@@ -49,3 +49,8 @@
   - I was voted as <2021 China Top 33 Open Source Pioneers> ([2021 中国开源先锋 33 人](https://mp.weixin.qq.com/s/ff7PQemQM-rTBR5VuR5vQg))
 
 - 💇🏻 Fun fact - I haven't been to the barber's since October 2017
+
+## Profile Visits
+
+![Visitor Count](https://profile-counter.glitch.me/{kezhenxu94}/count.svg)
+
