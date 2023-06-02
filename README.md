@@ -9,7 +9,9 @@
 
 - 🧹 I believe in writing clean codes
 
-- 📋 I've been building a clipboard manager [CopyActions](https://copy-actions.github.io) for my own use and share it to all
+- 📋 I've been building some interesting tools for my own use and share them to all
+  -  [CopyActions](https://copy-actions.github.io): a clipboard manager
+  -  [Message AI](https://message-ai.github.io): a powerful AI messaging app for iPhone/iPad/macOS, with ChatGPT, StableDiffusion, etc.
 
 - 🧑🏻‍🔧 I am a maintainer of Apache [SkyWalking](http://github.com/apache/skywalking)
 
