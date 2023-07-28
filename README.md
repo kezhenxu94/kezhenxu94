@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm kezhenxu94 (柯振旭)</h1>
-<h3 font-size="20" align="center">A passionate developer and open source enthusiast.</h3>
+<h3 font-size="20" align="center">A passionate engineer and open source enthusiast.</h3>
 
 - 🏝 I am currently learning to live an interesting life
 
@@ -11,7 +11,7 @@
 
 - 📋 I've been building some interesting tools for my own use and share them to all
   -  [CopyActions](https://copy-actions.github.io): a clipboard manager
-  -  [Message AI](https://message-ai.github.io): a powerful AI messaging app for iPhone/iPad/macOS, with ChatGPT, StableDiffusion, etc.
+  -  [Message AI](https://message-ai.github.io): an AI messaging app for iPhone/iPad/macOS, with ChatGPT, StableDiffusion, Text to Speech, etc.
 
 - 🧑🏻‍🔧 I am a maintainer of Apache [SkyWalking](http://github.com/apache/skywalking)
 
