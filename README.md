@@ -31,8 +31,7 @@
   - [Apache SkyWalking](https://skywalking.apache.org) Project Management Committee member
   - [Apache Incubator](https://incubator.apache.org) Project Management Committee member
   - [Apache DolphinScheduler](http://github.com/apache/dolphinscheduler) Project Management Committee member
-  - [Apache MXNet (incubating)](http://github.com/apache/incubator-mxnet) mentor
-  - [Apache SeaTunnel (incubating)](http://github.com/apache/incubator-seatunnel) mentor
+  - [Apache SeaTunnel](http://github.com/apache/incubator-seatunnel) mentor
   - [Apache Dubbo](http://github.com/apache/dubbo) Committer
 
 - 🎙 I shared topics at conferences / meetups
