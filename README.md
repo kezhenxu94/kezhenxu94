@@ -46,9 +46,6 @@
   - [Summer of Open Source Promotion Plan (2021)](https://summer.iscas.ac.cn/#/org/orgdetail/apacheskywalking?lang=en)
   - [Summer of Open Source Promotion Plan (2020)](https://isrc.iscas.ac.cn/summer2020/#/organisations/apache-sw)
 
-- 📰 Events
-  - I was voted as <2021 China Top 33 Open Source Pioneers> ([2021 中国开源先锋 33 人](https://mp.weixin.qq.com/s/ff7PQemQM-rTBR5VuR5vQg))
-
 - 💇🏻 Fun fact - I haven't been to the barber's since October 2017
 
 ## Profile Visits
